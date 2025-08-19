@@ -21,6 +21,12 @@ build
 # misc
 .DS_Store
 *.pem
+
+# Certificates
+*.crt
+*.key
+*.cert
+*.pfx
 *.p12
 
 # debug
